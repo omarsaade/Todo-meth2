@@ -106,3 +106,12 @@
   .task-stats .tasks-completed span {
     background-color: #03A9F4;
   }
+
+  .showOverlay {
+    text-decoration: line-through;
+  }
+
+  .ho {
+    text-decoration: none;
+    
+  }
